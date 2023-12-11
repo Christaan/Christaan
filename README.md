@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christaan Oliphant! <br/><a href="https://www.linkedin.com/in/christaan-oliphant/"></a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Professional</a
+<h1>Hi, I'm Christaan Oliphant! <br/><a href="https://www.linkedin.com/in/christaan-oliphant,/"></a>, <a href="https://www.linkedin.com/in/joshmadakor/"> an IT Professional</a
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
